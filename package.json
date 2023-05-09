@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/s17200/PlacePrep.com.git"
+    "url": "git+https://github.com/kaustubhgadakh/placeprep.com.git"
   },
   "author": "shs tech",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/s17200/PlacePrep.com/issues"
+    "url": "https://github.com/kaustubhgadakh/placeprep.com/issues"
   },
-  "homepage": "https://github.com/s17200/PlacePrep.com#readme",
+  "homepage": "https://github.com/kaustubhgadakh/placeprep.com#readme",
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
     "json-server": "^0.17.3",
