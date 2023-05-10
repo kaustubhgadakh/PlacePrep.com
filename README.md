@@ -33,26 +33,26 @@ Placeprep.com is now complete and fully functional. The team has successfully im
 
 
 ## See Live
-Visit the Deployed version using this <a href="https://place-prep-com-sigma.vercel.app/HomePage/index.html">link</a>  
+Visit the Deployed version using this <a href="https://placeprep.netlify.app/login/loginsignup">link</a>  
 <hr/>
 
 ## Team Members and Contributors
+ 
+###  Kaustubh Gadakh
+- Github : kaustubhgadakh
+- Visit Github : https://github.com/kaustubhgadakh
 
-### Soumya Swaroop Sootar
-- Github : soumyasootar
-- Visit Github : https://github.com/soumyasootar
-- Check out Linkedin : https://www.linkedin.com/in/soumya-swaroop-sootar-a4b708118/
+###  Vaibhav Chaudhari
+- Github : 
+- Visit Github : 
 
-### Himanshu Sharma
-- Github : hero007noob
-- Visit Github : https://github.com/hero007noob
-- Check out Linkedin : https://www.linkedin.com/in/himanshu-s-747a0b133/
+### Sushant Wabale
+- Github : 
+- Visit Github : 
 
-
-### Saurabh Sonvane
-- Github : s17200
-- Visit Github : https://github.com/s17200
-- Check out Linkedin : http://linkedin.com/in/saurabh-sonvane-64106017b
+### Abhishek Ohol
+- Github : 
+- Visit Github : 
 
 
 
