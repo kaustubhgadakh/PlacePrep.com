@@ -33,8 +33,9 @@ Placeprep.com is now complete and fully functional. The team has successfully im
 
 
 ## See Live
-Visit the Deployed version using this <a href="https://placeprep.netlify.app/login/loginsignup">link</a> 
-database :- https://placeprepbackend.onrender.com/
+Visit the Deployed version using this <a href="https://placeprep.netlify.app/login/loginsignup">Live link</a> 
+</hr>
+Database:- <a href="https://placeprepbackend.onrender.com/">link</a> 
 <hr/>
 
 ## Team Members and Contributors
